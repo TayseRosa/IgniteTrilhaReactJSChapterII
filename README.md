@@ -1,13 +1,16 @@
 <h1 align="center">Ignite - Trilha ReactJS - Chapter II </h1>
 
 #Índice
-- [🛠 Sobre o projeto](#-sobre-o-projeto)
+- [🛠 Sobre o projeto Rocketseat Ignite - Trilha React JS](#-sobre-o-projeto-rocketseat-ignite---trilha-react-js)
 - [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
 - [📥 Como usar](#-como-usar)
 - [🚀 Autor](#-autor)
   
 ---
-# 🛠 Sobre o projeto
+# 🛠 Sobre o projeto Rocketseat Ignite - Trilha React JS
+- [x] Foi criado o projeto utilizando o create-react-app pois essa ferramenta traz o básico do webpack já configurado;
+- [x] Foram exportado os assets do Figma para utilização no projeto;
+- [x] Foi utilizado o styled-components para estilização dos componentes do projeto e foi criado estilos globais para isso;
 
 
 
@@ -17,6 +20,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] JAVASCRIPT
 - [x] REACT JS
 - [x] TYPESCRIPT
+- [x] STYLED-COMPONENTS
 
 # 📥 Como usar
 ```js

@@ -21,7 +21,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] REACT JS
 - [x] TYPESCRIPT
 - [x] STYLED-COMPONENTS
-- [ ] Google Fonts
+- [x] GOOGLE FONTS
+- [x] MIRAGE JS - API FAKE(PARA SER UTILIZADA ENQUANTO O BACK END AINDA NÃO ESTÁ PRONTO PARA SER CONSUMIDO PELO FRONT END)
 
 # 📥 Como usar
 ```js

@@ -37,10 +37,17 @@ export const GlobalStyle = createGlobalStyle`
   body{
     background: var(--background);
     -webkit-font-smoothing: antialiased;
+    font-family: 'Poppins', Arial, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6, strong {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 600;
   }
 
   button {
     cursor: pointer;
+    font-family: 'Poppins', Arial, sans-serif;
   }
 
   [disabled] {

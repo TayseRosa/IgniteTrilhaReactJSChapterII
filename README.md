@@ -11,7 +11,7 @@
 - [x] Foi criado o projeto utilizando o create-react-app pois essa ferramenta traz o básico do webpack já configurado;
 - [x] Foram exportado os assets do Figma para utilização no projeto;
 - [x] Foi utilizado o styled-components para estilização dos componentes do projeto e foi criado estilos globais para isso;
-
+- [x] Fontes do Google Fonts
 
 
 # 🚀 Tecnologias utilizadas neste projeto
@@ -21,6 +21,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] REACT JS
 - [x] TYPESCRIPT
 - [x] STYLED-COMPONENTS
+- [ ] Google Fonts
 
 # 📥 Como usar
 ```js

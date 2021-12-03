@@ -14,6 +14,7 @@
 - [x] Fontes do Google Fonts
 - [x] Neste projeto também foi utilizado o Mirage JS, é uma ferramenta incrível que ajuda o Dev FrontEnd a simular uma API Fake, considerando um cenário em que o time Back ainda não conseguiu finalizar a API para ser consumida e o dev front end já pode ir simulando uma api para ser consumida, e assim evitar que deixe dados estáticos na aplicação, pois deixar dados estáticos na aplicação, implica em não deixar que o front end conclua certas atividades como por exemplo: a implementação de um load , já que com dados estáticos não seria possível deixar esta etapa pronta, e simulando o consumo da api já pode ser finalizado.
 - [x] Foi usado no projeto também a biblioteca polished, que tem diversos helpers para modificar cores nos arquivos de estilos;
+- [x] Context API
 
 
 # 🚀 Tecnologias utilizadas neste projeto
@@ -25,6 +26,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [x] STYLED-COMPONENTS
 - [x] GOOGLE FONTS
 - [x] MIRAGE JS - API FAKE(PARA SER UTILIZADA ENQUANTO O BACK END AINDA NÃO ESTÁ PRONTO PARA SER CONSUMIDO PELO FRONT END)
+- [x] CONTEXT API
 
 # 📥 Como usar
 ```js
